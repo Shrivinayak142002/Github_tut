@@ -1,2 +1,2 @@
 # Github_tut
-This is github class
+This is Github class
